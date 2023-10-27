@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273861504301",
+    "firebase_url": "https://chatapp-bc4ce-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-bc4ce",
+    "storage_bucket": "chatapp-bc4ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273861504301:android:c01ad7007cbffcf0ceb7a4",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273861504301-f7e99o25rqlht8r39on65lmc3l689p23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnNbZ3Ee1CdkDOkrZLuvyI3LioNFD0pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273861504301-f7e99o25rqlht8r39on65lmc3l689p23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
